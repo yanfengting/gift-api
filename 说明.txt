@@ -1,0 +1,6 @@
+先新建module/db.js，连接mongo数据库，新建一个轮播图框架，导出模型
+
+在route的index.js里面引入db,写一个接口/getSwipers，查找轮播图的所有数据，
+
+添加数据：再写一个接口/addData
+
